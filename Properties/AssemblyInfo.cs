@@ -10,7 +10,7 @@ using System.Windows;
 [assembly: AssemblyTitle("MakeItStar")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("GuageNet")]
+[assembly: AssemblyCompany("WinSun")]
 [assembly: AssemblyProduct("MakeItStar")]
 [assembly: AssemblyCopyright("Copyright © GuageNet 2013")]
 [assembly: AssemblyTrademark("")]
